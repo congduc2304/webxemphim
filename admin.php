@@ -647,6 +647,7 @@ $getReportsCount = showReportsCount($mysql_host,$mysql_dbname,$mysql_user,$mysql
         <option value="cat-history">Lịch sử</option>
         <option value="cat-science">Khoa học</option>
         <option value="cat-drama">Kịch</option>
+        <option value="kong">Kong và Godzilla</option>
       </select>
     </div>
   </div>
